@@ -4,6 +4,14 @@ Welcome to the My Cart Dev Log! Here you can find a list of the proposed and imp
 # What is My Cart?
 My Cart! is our latest app that attempts to take grocery shopping and make it cheaper and easier. The app provides a fairly long list of groceries & recipes you can make along with price estimates from 5 major retailers including Walmart, Kroger, H-E-B, Aldi, and HyVee. We have plans to add more stores, recipes, and grocery items in the future!
 
+Key features of the app:
+- Shop groceries and recipes from 5 major retailers - Walmart, Kroger, Aldi, HEB, and HyVee. We also have plans to add more stores in 2024.
+- Dozens of in-house recipes + thousands you can search up via 'generate' feature.
+- Price comparisons of recipes/items by store.
+- No added costs or surcharges (we don't add fees to the checkout price or take any %).
+- Saving time from conventional in-store shopping - use Curbside pickup or delivery.
+- Cheaper than other Meal-provider apps (Hello fresh, Factor, Uber Eats, etc).
+
 The app is still a work in progress but it is available on both major app stores. Get it on
 [iOS](https://apps.apple.com/us/app/my-cart/id6450795988) or 
 [Android](https://play.google.com/store/apps/details?id=com.dxt.mealstogo)
